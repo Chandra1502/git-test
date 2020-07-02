@@ -1,1 +1,2 @@
 "file 2 added" 
+This file has been changed as part of newbranch
